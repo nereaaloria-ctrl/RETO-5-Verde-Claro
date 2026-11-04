@@ -11,7 +11,7 @@ DATABASE_URL = os.getenv(
     "mysql+pymysql://clase:clase123@db:3306/creditos",
 )
 
-DATA_FILE = Path(os.getenv("DATA_FILE", "/datos/datos.xlsx"))
+DATA_FILE = Path(os.getenv("DATA_FILE", "/datos/Prestamos_Data_Alumnos_v5.xlsx"))
 TABLE_NAME = "clientes_credito"
 
 FORCE_RELOAD = (
