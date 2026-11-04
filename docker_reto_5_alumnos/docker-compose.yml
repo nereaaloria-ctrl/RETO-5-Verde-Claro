@@ -6,8 +6,6 @@ services:
       MYSQL_USER: clase
       MYSQL_PASSWORD: clase123
       MYSQL_ROOT_PASSWORD: root123
-    ports:
-      - "3306:3306"
     volumes:
       - mysql_data:/var/lib/mysql
     healthcheck:
