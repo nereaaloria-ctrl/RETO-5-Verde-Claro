@@ -19,7 +19,7 @@ services:
     build: ./loader
     environment:
       DATABASE_URL: mysql+pymysql://clase:clase123@db:3306/creditos
-      DATA_FILE: /datos/datos.xlsx
+      DATA_FILE: /datos/Prestamos_Data_Alumnos_v5.xlsx
       FORCE_RELOAD: "false"
     volumes:
       - ./datos:/datos:ro
