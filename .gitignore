@@ -1,3 +1,5 @@
 Data/*
 reto5/*
 venv/*
+.venv/*
+/Data/
