@@ -1,1 +1,2 @@
 
+He analizado los préstamos de negocios, comparado los sistemas de amortización francés y alemán y elegido uno para cada préstamo según la cuota y los intereses. Después, he calculado el valor de las cuotas pendientes a mitad del plazo y he usado el VAN y la TIR para valorar la rentabilidad de cada préstamo desde el punto de vista del prestamista.
